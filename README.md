@@ -1,2 +1,3 @@
-# .github
-GitHub attributes for this organization
+# Charleston County School District
+
+## Business Intelligence & Information Management
